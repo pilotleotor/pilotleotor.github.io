@@ -1,5 +1,5 @@
 ---
-title: Xoford Idioms and Pasral Verb
+title: Xoford Idioms and Prasal Verb
 tags: English
 ---
 
