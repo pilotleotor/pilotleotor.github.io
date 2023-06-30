@@ -91,7 +91,7 @@ mathjax_autoNumber: # false (default), true
 mermaid: # false (default), true
 
 ## Chart
-chart: # false (default), true
+chart:"true" # false (default), true
 
 
 ## => Paginate
@@ -147,7 +147,7 @@ comments:
 ## => Pageview
 ##############################
 pageview:
-  provider: false # false (default), "leancloud", "custom"
+  provider: "leancloud" # false (default), "leancloud", "custom"
 
   ## Leancloud
   leancloud:
@@ -208,11 +208,11 @@ defaults:
     values:
       layout: article
       sharing: true
-      license: true
+      license: false
       aside:
         toc: true
-      show_edit_on_github: true
-      show_subscribe: true
+      show_edit_on_github: false
+      show_subscribe: false
       pageview: true
 
 
