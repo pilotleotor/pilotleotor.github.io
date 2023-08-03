@@ -1,3 +1,10 @@
+---
+title: animal
+tags: picture
+---
+
+
+
 ## Animal Picture
 
 ![123](https://res.cloudinary.com/roundglass/image/upload/v1669007041/rg/collective/media/indian-peafowl-1669007040284.jpg)
