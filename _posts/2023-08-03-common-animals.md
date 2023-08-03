@@ -1,5 +1,5 @@
 ---
-title: my blog
+title: common animals
 tags: picture
 ---
 
